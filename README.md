@@ -1,5 +1,5 @@
 ![Intro banner]()
-### Hi 👋
+### Hello 👋
 Welcome to my GitHub profile! I am currently working on projects to continue learning JavaScript and React. 
 
 Please contact me with any questions or ideas for collaboration! 📫 
