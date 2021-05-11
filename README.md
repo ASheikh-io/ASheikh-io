@@ -33,6 +33,7 @@ Please contact me with any questions or ideas for collaboration! 📫
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 </div>
+</td></tr></table> 
 
 <br/>
 
