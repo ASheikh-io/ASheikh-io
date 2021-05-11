@@ -1,4 +1,4 @@
-![Intro banner]()
+![Intro banner](https://user-images.githubusercontent.com/66457087/117820120-e4d34900-b272-11eb-9ede-cf59c3c1930f.jpg)
 ### Hi 👋
 Welcome to my GitHub profile! I am currently working on projects to continue learning JavaScript and React. 
 
